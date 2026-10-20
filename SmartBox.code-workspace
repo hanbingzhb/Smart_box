@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "SmartBox_HW"
+		},
+		{
+			"path": "SmartBox_BE"
+		},
+		{
+			"path": "SmartBox_FE"
+		}
+	],
+	"settings": {}
+}
